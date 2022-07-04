@@ -1,0 +1,63 @@
+table, th, td {
+  border: 1px solid #8a7d7d54;
+  cursor: default;
+  padding: 5px;
+}
+.display_panel {
+    height: 100px;
+    width: 100%;
+    border-bottom: 0;
+    position: relative;
+    overflow: hidden;
+    border: none;
+    border-radius: 5px;
+    display: grid;
+    text-align: end;
+    color: #6d5959;
+}
+
+.calculator {
+    box-shadow: -2px 3px 10px 0px #8e8585;
+    margin: auto;
+    width: 249px;
+    border-radius: 5px;
+    transform: translateY(50%);
+}
+
+.display_body {
+    width: 100%;
+    border-top: 1px solid #adada6;
+    padding-top: 10px;
+    border-bottom: 1px solid #adada6;
+    border-radius: 5px;
+}
+button.span_two {
+    width: 110px;
+    padding: 5px;
+    text-align: center;
+}
+
+button {
+    width: 50px;
+    margin-left: 7px;
+    margin-bottom: 10px;
+    padding: 5px;
+    background: pink;
+    border: none;
+    border-radius: 5px;
+}
+.num1 {margin-top: 20px;margin-right: 25px;}
+
+.num2 {
+    margin-right: 25px;
+}
+body {
+    font-family: arial;
+}
+
+
+
+
+
+
+.
